@@ -42,3 +42,24 @@ h2 {
     color:black ;
     padding: 0px;
 }
+
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+}
+section.normal{
+    background-color: rgb(201, 141, 30);
+    color: white;
+}
+
+section.normal{
+    background-color: rgba(0, 0, 0, 0.61);
+    color: blanchedalmond;
+}
+section.imagem > p {
+    width: 400px;
+    background-color: black;
+    color: white;
+}
