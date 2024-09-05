@@ -5,6 +5,40 @@
     padding: 0px;
 }
 html,body{
-    min-width: 100%;
-    background-color: beige;
+    min-height: 100%;
+   background-color: azure;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header > h1{
+   padding-top: 15px;
+    font-variant: small-caps;
+}
+
+header p {
+    padding-bottom: 15px;
+
+}
+  footer {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    background-color: black;
+  padding: 10px;
+  text-align: center;
+}
+h3 {background-color: white;
+    text-align: center;
+
+}
+
+h2 {
+    background-color:black;
+    color:black ;
+    padding: 0px;
 }
